@@ -1,0 +1,10 @@
+*{
+	margin : 0; /* body->8px */
+	text-decoration: none; /* 清除下划线 */
+	padding : 0;/* ul */
+	list-style: none;
+}
+img{
+	border: 0;
+	display: block;
+}
